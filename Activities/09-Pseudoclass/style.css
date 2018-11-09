@@ -1,0 +1,18 @@
+a {
+    font-size: 50px;
+}
+
+a:hover {
+    background-color: lightgreen;
+    color:black;
+}
+
+a:focus {
+    background-color: blue;
+    color: black;
+}
+
+a:active {
+    background-color: darkorchid;
+    color:black;
+}
